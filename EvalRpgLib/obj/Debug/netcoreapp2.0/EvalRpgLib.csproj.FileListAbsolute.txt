@@ -1,0 +1,9 @@
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/bin/Debug/netcoreapp2.0/EvalRpgLib.deps.json
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/bin/Debug/netcoreapp2.0/EvalRpgLib.dll
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/bin/Debug/netcoreapp2.0/EvalRpgLib.pdb
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/obj/Debug/netcoreapp2.0/EvalRpgLib.csprojResolveAssemblyReference.cache
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/obj/Debug/netcoreapp2.0/EvalRpgLib.csproj.CoreCompileInputs.cache
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/obj/Debug/netcoreapp2.0/EvalRpgLib.AssemblyInfoInputs.cache
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/obj/Debug/netcoreapp2.0/EvalRpgLib.AssemblyInfo.cs
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/obj/Debug/netcoreapp2.0/EvalRpgLib.dll
+/Users/antoinepoirier/Downloads/CSharp_EvalRPG-MASSOUE_POIRIER/EvalRpgLib/obj/Debug/netcoreapp2.0/EvalRpgLib.pdb
